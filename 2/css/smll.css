@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+}
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+.col-s-1{
+    width: 8.33%;
+}
+.col-s-2{
+    width: 16.66;
+}
+.col-s-3{
+    width: 25%;
+}
+.col-s-4{
+    width: 33.33%;
+}
+.col-s-5{
+    width: 41.66%;
+}
+.col-s-6{
+    width: 50%;
+}
+.col-s-7{
+    width: 58.33%;
+}
+.col-s-8{
+    width: 66.66%;
+}
+.col-s-9{
+    width: 75%;
+}
+.col-s-10{
+    width: 83.33%;
+}
+.col-s-11{
+    width: 91.66%;
+}
+.col-s-12{
+    width: 100%;
+}
+.continue{
+    display: none;
+}
+.word{
+    display: inline-block;
+}
+.flex img{
+    width: 20px;
+    height: 20px;
+}
+.insta-icon{
+    display: flex;
+    justify-content: center;
+}
+.site{
+    font-size: 13px;
+}
+.item{
+    display: block;
+}
+#hidden{
+    display: none;
+}
+.footer-item{
+    margin:  0 auto;
+}
+.footer-item ul li a{
+    font-size: 12px;
+    font-weight: 550;
+}
+.footer-item ul{
+    margin-top: 3px;
+    justify-content: center;
+}
+.footer-item ul li{
+    display: inline-block;
+    margin: 0 8px;
+}
+.hide{
+    display: block;
+}
